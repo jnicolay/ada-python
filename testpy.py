@@ -1,2 +1,3 @@
-print("Hello World")
-print(1-2)
+print("Hello World") #Diese Funktionen sind mir aber zu easy gewesen... 
+var = 1-2
+print(var)
